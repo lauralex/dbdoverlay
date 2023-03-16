@@ -1,0 +1,235 @@
+{
+  "images": [
+    {
+      "width": 1249,
+      "height": 650,
+      "id": 1,
+      "file_name": "47dce54c-bloodlust_screenshot.png"
+    },
+    {
+      "width": 1245,
+      "height": 650,
+      "id": 23,
+      "file_name": "e273ec99-hasteundetectable.png"
+    },
+    {
+      "width": 1247,
+      "height": 646,
+      "id": 24,
+      "file_name": "81e26a32-bloodlust_screen2.png"
+    },
+    {
+      "width": 1337,
+      "height": 703,
+      "id": 25,
+      "file_name": "dad7d1b3-hateundetectable2.png"
+    },
+    {
+      "width": 1917,
+      "height": 936,
+      "id": 26,
+      "file_name": "23acb1c2-blindness_screenshot.png"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "bleeding"
+    },
+    {
+      "id": 1,
+      "name": "blessed"
+    },
+    {
+      "id": 2,
+      "name": "blindness"
+    },
+    {
+      "id": 3,
+      "name": "bloodlust"
+    },
+    {
+      "id": 4,
+      "name": "broken"
+    },
+    {
+      "id": 5,
+      "name": "cursed"
+    },
+    {
+      "id": 6,
+      "name": "deepWound"
+    },
+    {
+      "id": 7,
+      "name": "endurance"
+    },
+    {
+      "id": 8,
+      "name": "exhaustion"
+    },
+    {
+      "id": 9,
+      "name": "exposed"
+    },
+    {
+      "id": 10,
+      "name": "gliph"
+    },
+    {
+      "id": 11,
+      "name": "haste"
+    },
+    {
+      "id": 12,
+      "name": "hearing"
+    },
+    {
+      "id": 13,
+      "name": "hindered"
+    },
+    {
+      "id": 14,
+      "name": "incapacitated"
+    },
+    {
+      "id": 15,
+      "name": "madness"
+    },
+    {
+      "id": 16,
+      "name": "mangled"
+    },
+    {
+      "id": 17,
+      "name": "oblivious"
+    },
+    {
+      "id": 18,
+      "name": "sleepPenalty"
+    },
+    {
+      "id": 19,
+      "name": "undetectable"
+    },
+    {
+      "id": 20,
+      "name": "vision"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 13,
+      "image_id": 1,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1175.9867659352133,
+        328.39050288246204,
+        28.659400287113534,
+        24.549606975148578
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 703.5770131920975
+    },
+    {
+      "id": 35,
+      "image_id": 23,
+      "category_id": 19,
+      "segmentation": [],
+      "bbox": [
+        1175.31404768559,
+        369.99684299019157,
+        23.693223786899445,
+        24.12391705925165
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 571.5733655014504
+    },
+    {
+      "id": 36,
+      "image_id": 23,
+      "category_id": 11,
+      "segmentation": [],
+      "bbox": [
+        1177.6620461628697,
+        328.4204535507238,
+        21.697785125296967,
+        22.414505574862766
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 486.34512565314327
+    },
+    {
+      "id": 37,
+      "image_id": 24,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1177.3056685011547,
+        325.75145937561285,
+        26.229049488812795,
+        25.448753746146405
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 667.496621436284
+    },
+    {
+      "id": 38,
+      "image_id": 25,
+      "category_id": 19,
+      "segmentation": [],
+      "bbox": [
+        1259.0606497119963,
+        394.7589570458086,
+        24.798884182546615,
+        25.675598737790622
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 636.7261994160096
+    },
+    {
+      "id": 39,
+      "image_id": 25,
+      "category_id": 11,
+      "segmentation": [],
+      "bbox": [
+        1259.4592859728818,
+        352.87435575332825,
+        24.197102249599197,
+        23.638918957241675
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 571.9933390783657
+    },
+    {
+      "id": 40,
+      "image_id": 26,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1811.945775359822,
+        427.20421110821314,
+        36.9421449284159,
+        32.30435771974098
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 1193.3922647020622
+    }
+  ],
+  "info": {
+    "year": 2023,
+    "version": "1.0",
+    "description": "",
+    "contributor": "Label Studio",
+    "url": "",
+    "date_created": "2023-03-14 19:34:49.786311"
+  }
+}

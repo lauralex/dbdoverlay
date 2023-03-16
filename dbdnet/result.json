@@ -1,0 +1,301 @@
+{
+  "images": [
+    {
+      "width": 451,
+      "height": 536,
+      "id": 0,
+      "file_name": "images\\3/0cab19a1-AllStatusEffects.webp"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "bleeding"
+    },
+    {
+      "id": 1,
+      "name": "blessed"
+    },
+    {
+      "id": 2,
+      "name": "blindness"
+    },
+    {
+      "id": 3,
+      "name": "bloodlust"
+    },
+    {
+      "id": 4,
+      "name": "broken"
+    },
+    {
+      "id": 5,
+      "name": "cursed"
+    },
+    {
+      "id": 6,
+      "name": "deepWound"
+    },
+    {
+      "id": 7,
+      "name": "endurance"
+    },
+    {
+      "id": 8,
+      "name": "exhaustion"
+    },
+    {
+      "id": 9,
+      "name": "exposed"
+    },
+    {
+      "id": 10,
+      "name": "gliph"
+    },
+    {
+      "id": 11,
+      "name": "haste"
+    },
+    {
+      "id": 12,
+      "name": "hearing"
+    },
+    {
+      "id": 13,
+      "name": "hindered"
+    },
+    {
+      "id": 14,
+      "name": "incapacitated"
+    },
+    {
+      "id": 15,
+      "name": "madness"
+    },
+    {
+      "id": 16,
+      "name": "mangled"
+    },
+    {
+      "id": 17,
+      "name": "oblivious"
+    },
+    {
+      "id": 18,
+      "name": "sleepPenalty"
+    },
+    {
+      "id": 19,
+      "name": "undetectable"
+    },
+    {
+      "id": 20,
+      "name": "vision"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 0,
+      "category_id": 8,
+      "segmentation": [],
+      "bbox": [
+        55.667364016736364,
+        125.50704225352099,
+        48.11924686192472,
+        49.07042253521124
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 2361.231775590784
+    },
+    {
+      "id": 1,
+      "image_id": 0,
+      "category_id": 14,
+      "segmentation": [],
+      "bbox": [
+        148.13179916318,
+        148.15492957746466,
+        47.17573221757312,
+        44.35211267605626
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 2092.3433908892603
+    },
+    {
+      "id": 2,
+      "image_id": 0,
+      "category_id": 17,
+      "segmentation": [],
+      "bbox": [
+        234.93514644351455,
+        124.56338028168997,
+        49.06276150627602,
+        52.84507042253513
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 2592.725086923202
+    },
+    {
+      "id": 3,
+      "image_id": 0,
+      "category_id": 11,
+      "segmentation": [],
+      "bbox": [
+        325.51255230125463,
+        149.09859154929597,
+        48.11924686192443,
+        47.18309859154917
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 2270.4151688372735
+    },
+    {
+      "id": 4,
+      "image_id": 0,
+      "category_id": 7,
+      "segmentation": [],
+      "bbox": [
+        149.07531380753153,
+        241.5774647887327,
+        43.4016736401675,
+        39.63380281690137
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 1720.1733749779048
+    },
+    {
+      "id": 5,
+      "image_id": 0,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        237.765690376569,
+        217.98591549295776,
+        45.28870292887027,
+        44.35211267605633
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 2008.6496552536967
+    },
+    {
+      "id": 6,
+      "image_id": 0,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        327.3995815899582,
+        240.63380281690144,
+        45.288702928870286,
+        46.239436619718305
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 2094.1241086687482
+    },
+    {
+      "id": 7,
+      "image_id": 0,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        150.96234309623432,
+        335.0,
+        39.6276150627615,
+        34.91549295774647
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 1383.6177146561372
+    },
+    {
+      "id": 8,
+      "image_id": 0,
+      "category_id": 16,
+      "segmentation": [],
+      "bbox": [
+        238.70920502092054,
+        305.74647887323937,
+        44.34518828451882,
+        46.23943661971829
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 2050.496523071482
+    },
+    {
+      "id": 9,
+      "image_id": 0,
+      "category_id": 13,
+      "segmentation": [],
+      "bbox": [
+        327.39958158995813,
+        328.3943661971828,
+        46.23221757322186,
+        47.18309859154928
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 2181.3792798632844
+    },
+    {
+      "id": 10,
+      "image_id": 0,
+      "category_id": 9,
+      "segmentation": [],
+      "bbox": [
+        148.13179916317986,
+        416.15492957746477,
+        44.345188284518834,
+        44.35211267605639
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 1966.8027874359152
+    },
+    {
+      "id": 11,
+      "image_id": 0,
+      "category_id": 9,
+      "segmentation": [],
+      "bbox": [
+        241.53974895397488,
+        399.169014084507,
+        35.85355648535565,
+        40.57746478873239
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 1454.8464258353467
+    },
+    {
+      "id": 12,
+      "image_id": 0,
+      "category_id": 5,
+      "segmentation": [],
+      "bbox": [
+        330.2301255230126,
+        417.0985915492958,
+        38.68410041841003,
+        45.29577464788731
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 1752.2262950085442
+    }
+  ],
+  "info": {
+    "year": 2023,
+    "version": "1.0",
+    "description": "",
+    "contributor": "Label Studio",
+    "url": "",
+    "date_created": "2023-03-13 22:00:33.392431"
+  }
+}
